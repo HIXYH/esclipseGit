@@ -1,7 +1,7 @@
 package org.springframework.mvc.extensions.ajax;
 
 import org.springframework.web.context.request.WebRequest;
-
+//修改
 public class AjaxUtils {
 
 	public static boolean isAjaxRequest(WebRequest webRequest) {
